@@ -1,37 +1,50 @@
-# Hi there, I'm Rehan Raja! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=200&section=header&text=Rehan%20Raja&fontSize=70&fontAlignY=35&animation=twinkling" width="100%" />
+</p>
 
-<!-- Animated Typing Effect -->
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=39FF14&width=435&lines=Full+Stack+Developer+🚀;Tech+Enthusiast+💻;Welcome+to+my+profile!+✨" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A9F&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+🚀;Building+Digital+Experiences+💻;Turning+Coffee+into+Code+☕" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/RehanRaja18">
+    <img src="https://komarev.com/ghpvc/?username=RehanRaja18&color=blueviolet&style=flat-square" alt="Profile Views" />
+  </a>
 </p>
 
 ---
 
-## 🌌 My GitHub Stats & Stars
+## 🌌 Executive Summary & Stats
 
-<!-- Live Animated Stats & Streak Cards side-by-side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RehanRaja18&show_icons=true&theme=dark&hide_border=true" alt="Rehan's GitHub stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RehanRaja18&theme=dark&hide_border=true" alt="GitHub Streak" height="180" />
-</p>
-
-<!-- Animated Contribution Graph -->
-### 📈 Activity Wave
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.io/graph?username=RehanRaja18&theme=react-dark&area=true&category=commits" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RehanRaja18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RehanRaja18&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Badges
+## 🛠️ Technologies & Ecosystem
+
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### ⭐ Fun Fact
-> "The code is compiling... and there are no errors... wait, something must be wrong." 😄
+## 🐍 Contribution Graph Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RehanRaja18/RehanRaja18/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RehanRaja18/RehanRaja18/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Streak Snake" src="https://raw.githubusercontent.com/RehanRaja18/RehanRaja18/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<p align="center">
+  <i>"Simplicity is the soul of efficiency."</i>
+</p>
